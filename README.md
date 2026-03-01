@@ -52,7 +52,7 @@ Handles the financial data and account mapping.
 Clone the Repository:
 
 Bash
-git clone https://github.com/yourusername/BankingManagementSystem.git
+git clone https://github.com/princegupta9584/BankingManagementSystem.git
 Database Setup:
 
 Create a database named banking_system.
